@@ -1,2 +1,4 @@
-# lost-places
-Database with lost places
+# Lost places
+Database with lost places based on a earlier version of the "Urbex Elite" Google map.
+
+
